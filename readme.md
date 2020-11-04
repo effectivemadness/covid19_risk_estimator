@@ -1,7 +1,7 @@
-
+﻿
 ## 주제
-### COVID-19 전파 위험도 추정: YOLO-V4와 Image Classification을 사용한 실시간 화면 분석
-### Estimation of COVID-19 Transmission Risk: Real-time Screen Analysis using YOLO-V4 and Image Classification
+### COVID-19 전파 위험도 추정: 물체 및 장면 감지를 사용한 실시간 화면 분석
+### Estimation of COVID-19 Transmission Risk: Real-time Screen Analysis using Object and Scene Detection
 ---
 ## Table of Contents
 * [About the Project](#about-the-project)
