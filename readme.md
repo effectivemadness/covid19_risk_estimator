@@ -23,7 +23,7 @@ python3 Social_Distance_avg.py
 ```
 
 # Run Screen
-![1121](https://user-images.githubusercontent.com/57438644/100311825-11144980-2ff4-11eb-9c22-361d4e4eb2d8.png)
+![1604146113797_re](https://user-images.githubusercontent.com/57438644/100606149-57e3a580-334c-11eb-855e-cc0d8dd30dee.png)
 
 # Member
 - 2015104147 공재호 asebn121@gmail.com
