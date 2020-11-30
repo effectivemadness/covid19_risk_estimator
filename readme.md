@@ -30,8 +30,8 @@ python3 Social_Distance_avg.py
 - 공재호([asebn1](https://github.com/asebn1))
 - 이민호([yeemh](https://github.com/yeemh))
 - 이승민([effectivemadness](https://github.com/effectivemadness))
-- 지호진([hojin](https://github.com/hojin))
-- 최성원([choi](https://github.com/choi))
+- 지호진([sj59228](https://github.com/sj59228))
+- 최성원([worldbrighteststar](https://github.com/worldbrighteststar))
 
 **Project Mentor**
 - 배성호
