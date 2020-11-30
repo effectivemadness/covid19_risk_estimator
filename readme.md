@@ -17,7 +17,9 @@ COVID-19의 확산과 지속으로 외출에 대한 불안은 증가하고 있�
 ```
 git clone http://khuhub.khu.ac.kr/2020-2-capstone-design1/BSH_project.git
 ```
-2. Run executable
+2. Download [Weights](https://drive.google.com/file/d/1PTlUjXHEavLScCeZcZjbW_oldgi6EJg6/view?usp=sharing)
+
+3. Run executable
 ```
 python3 Social_Distance_avg.py
 ```
