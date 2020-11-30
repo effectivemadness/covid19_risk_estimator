@@ -26,9 +26,16 @@ python3 Social_Distance_avg.py
 ![1604146113797_re](https://user-images.githubusercontent.com/57438644/100606149-57e3a580-334c-11eb-855e-cc0d8dd30dee.png)
 
 # Member
-**Project Member**: 공재호([asebn1](https://github.com/asebn1)), 이민호([yeemh](https://github.com/yeemh)), 이승민([effectivemadness](https://github.com/effectivemadness)), 지호진([hojin](https://github.com/hojin)), 최성원([choi](https://github.com/choi))
+**Project Member**
+- 공재호([asebn1](https://github.com/asebn1))
+- 이민호([yeemh](https://github.com/yeemh))
+- 이승민([effectivemadness](https://github.com/effectivemadness))
+- 지호진([hojin](https://github.com/hojin))
+- 최성원([choi](https://github.com/choi))
 
-**Project Mentor**: 배성호, 신은섭
+**Project Mentor**
+- 배성호
+- 신은섭
 
 
 
