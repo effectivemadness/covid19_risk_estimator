@@ -21,7 +21,7 @@ git clone http://khuhub.khu.ac.kr/2020-2-capstone-design1/BSH_project.git
 3. Download CUDNN DLLs (cudnn64_8.dll) from [Nvidia](https://developer.nvidia.com/rdp/cudnn-archive)
 4. Run executable
 ```
-python3 Social_Distance_avg.py
+python3 Social_Distance_avg_run.py
 ```
 
 # Run Screen
