@@ -25,7 +25,7 @@ python3 Social_Distance_avg_run.py
 ```
 
 # Run Screen
-![1604146113797_re](https://user-images.githubusercontent.com/57438644/100606149-57e3a580-334c-11eb-855e-cc0d8dd30dee.png)
+![1604146113797_re](https://drive.google.com/file/d/1VBh7HRDSDCD6LlF0dilwhXtKH13ibP7k/view?usp=sharing)
 
 # Member
 **Project Member**
