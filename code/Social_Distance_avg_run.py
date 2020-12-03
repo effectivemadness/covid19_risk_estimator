@@ -2,7 +2,7 @@
 #  COVID-19 전파 위험도 추정 : 물체 및 장면 감지를 사용한 실시간 화면 분석
 #  Estimation of COVID-19 Transmission Risk: Real-time Screen 
 #                      Analysis using Object and Scene Detection
-#  Team - 최공이조
+#  Team - 최공이지조
 #  version 1.0
 #================================================================
 from ctypes import *
